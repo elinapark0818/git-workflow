@@ -4,3 +4,5 @@
 git clone <계정2의 레파지토리 주소>
 git remote add pair <계정2의 레파지토리 주소>
 git pull pair master 로 1계정의 내용을 가져왔다
+
+github 계정을 두개를 같이 하려니 뭔가 꼬인다 ㅠㅠ
